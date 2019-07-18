@@ -15,7 +15,7 @@ So, the heuristics for one player can be simply the opposite (negated) of the he
 
 In Karl by layman's term: Just imagine you are being negated everytime you move with every possible movements 😆
 
-Here is the sample setup :D
+Here is the sample setup :poop:
 
 ![](https://media.giphy.com/media/Tf3Qy3PFAWebrLnUKn/giphy.gif)
 
