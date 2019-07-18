@@ -13,7 +13,7 @@ It's easy to see that there is a strong relation between the two heuristics. Thi
 as follows: the better a state of the game is for one player, the worse it is for the other player. 
 So, the heuristics for one player can be simply the opposite (negated) of the heuristics for the other player.
 
-In Karl's Layman Term: Just imagine you are being negated everytime you move with every possible movements 😆
+In Karl by layman's term: Just imagine you are being negated everytime you move with every possible movements 😆
 
 Here is the sample setup :D
 
